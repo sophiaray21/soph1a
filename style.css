@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+
+}
+
+p {
+    width: 800px;
+    margin: 0 auto;
+}
+
+#main {
+    color: pink;
+    background-color: lightblue;
+}
+
+.a {
+    border: 3px solid black;
+    padding: 20px, 20px, 20px, 20px;
+}
